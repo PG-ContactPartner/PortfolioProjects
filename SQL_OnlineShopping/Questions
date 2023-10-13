@@ -1,1 +1,5 @@
 -- Q1. Print details of sales where amounts are > 2,000 and boxes are < 100
+-- Q2. How many sales did each of the salespersons have in January 2022?
+-- Q3. Which product sells more boxes?
+-- Q4. Which product sold more boxes in the first 7 days of February 2022?
+-- Q5. Which sales had under 100 customers & 100 boxes? Did any of them occur on Wednesday?
