@@ -1,0 +1,8 @@
+-- Q1. How much did movies cost per minute?
+-- Q2.	What is the top-5 movies in terms of budget?
+-- Q3.	In terms of release date, how old is every single movie? Show the top-10 Youngest movies.
+-- Q4.	List movie titles, respective producers and year.
+-- Q5. Which movies cost less than 50,000 and what were their genres and year of release? Just top-50.
+-- Q6. Which were the bottom 20 less popular movies and what company produced them?
+-- Q7.	Which movie companies invested the budget between 150K to 200K and for which movie?
+-- Q8. Make a list of actors who played after the year 2010.
